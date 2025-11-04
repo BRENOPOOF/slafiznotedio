@@ -40,7 +40,7 @@ game:GetService("ReplicatedStorage").Remotes.ChangeCharacterBody:InvokeServer(un
     end
 
     local accessoriesToWear = {
-        110237636389546,
+        0,
         0,
         0,
         0,
